@@ -4,8 +4,6 @@ font-family: 'Lato', sans-serif;
 Main Font black #000
 Light_Gold #CEA405
 Dark_Gold #8A6E03
-
-
 */
 
 
@@ -214,7 +212,7 @@ input[type=submit]:active {
 
 .copyright-box {
     width: 100vw;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     background-color: #333;
     padding: 10px 0 10px 0;
