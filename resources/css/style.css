@@ -207,7 +207,7 @@ input[type=submit]:active {
 }
 
 .section-hero div:last-child {
-    margin-bottom: 0;
+    margin-bottom: 60px;
 }
 
 .copyright-box {
