@@ -191,6 +191,9 @@ input[type=submit]:active {
   color: #fff;
 }
 
+.row-btn {
+    margin-bottom: 10px;
+}
 
 
 
@@ -207,7 +210,7 @@ input[type=submit]:active {
 }
 
 .section-hero div:last-child {
-    margin-bottom: 60px;
+    margin-bottom: 0;
 }
 
 .copyright-box {
